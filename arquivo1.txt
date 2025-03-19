@@ -1,4 +1,4 @@
-Faculdade Uniesp
+
 Curso de Ciências da Computação
 Disciplina: Tecnologias para Front-End
 
